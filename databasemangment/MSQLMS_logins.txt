@@ -1,0 +1,8 @@
+Server name: mssql-158870-0.cloudclusters.net,19994
+
+Authenticaiton:
+AQL Server Authentication
+
+Login : 1517002
+
+Password : 123Rashed123

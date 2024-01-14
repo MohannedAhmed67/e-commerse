@@ -1,0 +1,248 @@
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.GenerateResource.cache
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.GeneratedMSBuildEditorConfig.editorconfig
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfoInputs.cache
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfo.cs
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CoreCompileInputs.cache
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.exe
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.deps.json
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.runtimeconfig.json
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.pdb
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\refint\3m-Rashed-Market.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.pdb
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.genruntimeconfig.cache
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\ref\3m-Rashed-Market.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\_3m_Rashed_Market.Cart.resources
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\_3m_Rashed_Market.Login.resources
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\_3m_Rashed_Market.Products.resources
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\_3m_Rashed_Market.RegisterForm.resources
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.sourcelink.json
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.AssemblyReference.cache
+F:\semester 7\DataEng\test\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CopyComplete
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.exe
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.deps.json
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.runtimeconfig.json
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\3m-Rashed-Market.pdb
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.AssemblyReference.cache
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\_3m_Rashed_Market.Cart.resources
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\_3m_Rashed_Market.Login.resources
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\_3m_Rashed_Market.Products.resources
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\_3m_Rashed_Market.RegisterForm.resources
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.GenerateResource.cache
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfoInputs.cache
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfo.cs
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CoreCompileInputs.cache
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.sourcelink.json
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CopyComplete
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\refint\3m-Rashed-Market.dll
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.pdb
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\3m-Rashed-Market.genruntimeconfig.cache
+D:\Ejust\7th\Datalab\project\3m-Rashed-Market\obj\Debug\net8.0-windows\ref\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.AssemblyReference.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\refint\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.pdb
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.exe
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.deps.json
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.runtimeconfig.json
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.pdb
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Cart.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Login.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Products.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.RegisterForm.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.GenerateResource.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfoInputs.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfo.cs
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CoreCompileInputs.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CopyComplete
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.genruntimeconfig.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\ref\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\EmployeeManagementSystem.payment.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\EmployeeManagementSystem.Product_details.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.AssemblyReference.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\refint\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.pdb
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.exe
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.deps.json
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.runtimeconfig.json
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.pdb
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Cart.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Login.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\EmployeeManagementSystem.payment.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Products.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\EmployeeManagementSystem.Product_details.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Properties.Resources.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.RegisterForm.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.GenerateResource.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfoInputs.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfo.cs
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CoreCompileInputs.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CopyComplete
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.genruntimeconfig.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\3m-Rashed-Market-main\obj\Debug\net8.0-windows\ref\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.exe
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.deps.json
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.runtimeconfig.json
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\3m-Rashed-Market.pdb
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.AssemblyReference.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Cart.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Login.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\EmployeeManagementSystem.payment.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Products.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\EmployeeManagementSystem.Product_details.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.Properties.Resources.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\_3m_Rashed_Market.RegisterForm.resources
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.GenerateResource.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfoInputs.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.AssemblyInfo.cs
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CoreCompileInputs.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.csproj.CopyComplete
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\refint\3m-Rashed-Market.dll
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.pdb
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\3m-Rashed-Market.genruntimeconfig.cache
+D:\Studying\Data Engineering\3m-Rashed-Market-main\obj\Debug\net8.0-windows\ref\3m-Rashed-Market.dll
